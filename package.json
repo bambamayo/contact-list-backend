@@ -1,0 +1,19 @@
+{
+  "name": "contact-list",
+  "version": "1.0.0",
+  "description": "personalized contact list",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "ayobami agunroye",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.16.1",
+    "graphql": "^15.3.0",
+    "uuid": "^8.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
